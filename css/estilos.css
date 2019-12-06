@@ -6,3 +6,11 @@ body{
 h1{
     color: greenyellow;
 }
+
+header{
+    text-align: center;
+    font-family: Arial;
+    color: white;
+    padding: 10px;
+    background: crimson;
+}
